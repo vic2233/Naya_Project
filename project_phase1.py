@@ -7,7 +7,7 @@ from telebot.types import InlineKeyboardButton, InlineKeyboardMarkup
 #from api_stock import print_indexes  # Ensure this imports the function
 
 # Get Token from bot Father
-test1_token = '7426521216:AAEMNLvYrISiEAksJA7rzkq6wHbRK2ZV8rI'
+test1_token = 'mytoken'
 bot = telebot.TeleBot(test1_token)
 
 # Store user inputs in a dictionary
